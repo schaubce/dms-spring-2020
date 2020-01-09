@@ -53,7 +53,7 @@
 
 4. Activity:
 
-* Loops:  https://hourofcode.com/gcvariables
+* Loops:  https://hourofcode.com/gcloops
 
 * WoofJS Rocket Ship: https://woofjs.com/full.html#moving-rocket
 
