@@ -20,7 +20,6 @@
 * Computer Programming Meme: https://go.brainpop.com/vidcode/computerprogramming
 
 * Gaming with Variables: https://hourofcode.com/gcvariables
-* > Sessions 1 - 4
 
 * Extra Time – Introduce WoofJS https://woofjs.com/
 
@@ -38,9 +37,9 @@
 
 1. Ice Breaker –  
 
-* Card Game or Red Light Game (Like Simon Says)
+* Red Light Game (Like Simon Says)
 
-2. Review/Add Ground Rules
+2. Review/Add Ground Rules, collect photo release forms
 
 3. Concepts:  
 
@@ -50,21 +49,17 @@
 
 * If Statements/If Else
 
+* Loops
+
 4. Activity:
 
-* Gaming With Variables (Boolean) https://hourofcode.com/gcvariables
-* > Sessions 6-8
+* Loops:  https://hourofcode.com/gcvariables
 
-
-* If WoofJS wasn’t Introduced, Introduce it
-
-* WoofJS Rocket Ship: https://woofjs.com/create.html#moving-rocket
+* WoofJS Rocket Ship: https://woofjs.com/full.html#moving-rocket
 
 5. Hand out Project sheets  
 6. Closing
 
 * Ask what they learned
-
-* Pass out photo release forms
 
 * Turn off computers
