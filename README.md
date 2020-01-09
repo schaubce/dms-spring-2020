@@ -57,7 +57,7 @@
 
 * WoofJS Rocket Ship: https://woofjs.com/full.html#moving-rocket
 
-5. Hand out Project sheets  
+5. Hand out Project sheets & work on project
 6. Closing
 
 * Ask what they learned
