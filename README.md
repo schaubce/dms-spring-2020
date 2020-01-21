@@ -66,7 +66,7 @@
 
 ## Week 3
 
-1. Ice Breaker
+1. Ice Breaker https://curriculum.code.org/csf-19/coursed/10/
 
 2. Review/Ground Rules/Photo Release forms
 
@@ -78,7 +78,7 @@
 * Conditions: https://hourofcode.com/gcconditions
 * Comparators/Logical Rules: https://hourofcode.com/gccomparators
 * Frog Tutorial
- 
+
 5. Work on Site
 
 6. Selfie
