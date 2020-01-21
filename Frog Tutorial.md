@@ -2,7 +2,7 @@
 
 1. Choose your background and add Frog to the game
 
-   - Search for grass and add the `setBackdropURL` code to the right side
+   - Search for flappy and add the `setBackdropURL` code to the right side
    - Search for frog and copy/paste the code to the right
    - Click back right next to where you typed in frog to get back to all the options
 
