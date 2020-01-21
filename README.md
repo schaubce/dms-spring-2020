@@ -63,3 +63,35 @@
 * Ask what they learned
 
 * Turn off computers
+
+## Week 3
+
+1. Ice Breaker
+
+2. Review/Ground Rules/Photo Release forms
+
+3. Concepts:
+- Variables/Defining Objects (Sprites)
+- Booleans/If Statements
+
+4. Activities:
+* Conditions: https://hourofcode.com/gcconditions
+* Comparators/Logical Rules: https://hourofcode.com/gccomparators
+* Frog Tutorial
+ 
+5. Work on Site
+
+6. Selfie
+
+## Week 4
+1. Ice Breaker
+
+2. Review/Ground Rules/Photo Release forms
+
+3. Concepts:
+- Variables/Defining Objects (Sprites)
+- Booleans/If Statements
+
+4. Game Actions/Events
+* Events: https://hourofcode.com/gcevents
+* Actions https://hourofcode.com/gcactions
