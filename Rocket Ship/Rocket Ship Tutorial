@@ -1,0 +1,28 @@
+Create This Game: https://woofjs.com/full.html#moving-rocket
+
+Have a starry background & have a rocket ship move up, down, left and right.
+
+Instructions:
+
+1. Choose your background.
+a) In the Documentation Window, Click on Sprites & Backgrounds
+b) Click on Background
+c) Find the starry background and add that to your code by pressing the copy button & pasting it into the Code window(ctrl + v).
+
+2. Add a rocket ship to the game
+a) In the Documentation Window, Click on Sprites & Backgrounds
+b) Click on Image
+c) search for "Rocket"
+d) Copy the code for the rocket and paste it into the Code Window (ctrl + v)
+
+3. Move the rocket UP
+a) Click on Events
+b) Copy When <up arrow> key pressed code and paste it in the Code Window (ctrl v)
+c) Change the Direction of the Rocket to "UP". In the Documentation Window go to Motion, and notice you can do this by changing the angle property to the value "UP". (rocket.angle = UP)
+d) Make the rocket move. In the Documentation Window, go to Motion. Notice you can do this by changing the rocket.move property (rocket.move(10))
+c) Test that you can move your rocket to the top of the screen by pressing the up key
+
+4. Move the rocket Right, Left and Down
+a) Copy the if statement that you just wrote to move the rocket up (ctrl-c)
+b) Paste this if statement 3 more times.
+c) Update the values in the if statement to move RIGHT, LEFT, DOWN (Hint: change the rocket.angle property)
