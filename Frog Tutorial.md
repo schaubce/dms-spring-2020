@@ -12,7 +12,7 @@
    - Click the "Event" section and find the `onKeyDown` block, add this to the right inside the `forever` loop
      HINT: you will see a line `/* do stuff here */`, place the `onKeyDown` under this
    - Replace the text inside the `includes` parentheses with 'LEFT'
-   - Inside the `if` statement curly braces, add `frog.x -= 10`, what does this do? Try out your code by pressing the left key
+   - Inside the `if` statement curly braces, add `frog.x -= 10`, what does this do? Try out your code by clicking the Preview screen on the left, and pressing the left key
    - Now work on the frog moving the other three directions, how can you get it to move each way?
      HINT: take a look at your code for LEFT and see what you need to change for UP, DOWN, and RIGHT
 
