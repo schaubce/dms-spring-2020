@@ -9,8 +9,15 @@
 ### 2. Make the frog move
 
    - Click the "Control" section and find the `forever` block, add this to the right
-   - Click the "Event" section and find the `onKeyDown` block, add this to the right inside the `forever` loop
-     HINT: you will see a line `/* do stuff here */`, place the `onKeyDown` under this
+   - Click the "Event" section and find the orange "when key pressed" block, add the inner code to the right inside the `forever` loop. We do not need the outer `onKeyPressed` event since it is already inside a forever event. We will learn more about events next week! 
+     HINT: you will see a line `/* do stuff here */`, place the following code under this
+     
+     ```javascript
+     if (keysDown.includes('UP')) {
+      /* do something here */
+     }
+     ```
+  
    - Replace the text inside the `includes` parentheses with 'LEFT'
    - Inside the `if` statement curly braces, add `frog.x -= 10`, what does this do? Try out your code by clicking the Preview screen on the left, and pressing the left key
    - Now work on the frog moving the other three directions, how can you get it to move each way?
