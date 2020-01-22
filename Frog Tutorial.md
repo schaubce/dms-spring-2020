@@ -65,7 +65,7 @@
    }
    ```
 
-   - Add another `if` statement to check if tongue.y1 is less than or equal to frog.y, and set tongue.y1 to frog.y if so, do you know why we have to do this? Look at the last step and see if you can think of it
+   - The frog looks goofy, right? Let’s fix it by not letting the tongue go behind the frog. Add another `if` statement to check if tongue.y1 is less than or equal to frog.y, and set tongue.y1 to frog.y if so, do you know why we have to do this? Look at the previous step and see if you can think of it
      HINT: paste the following directly after that closing curly brace from the last step
 
    ```javascript
