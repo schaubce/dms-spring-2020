@@ -53,8 +53,8 @@
 ### 4. Make space bar control the tongue
 
    - Add another `forever` loop at the end
-   - Add an `onKeyDown` function inside forever loop and replace the text with 'SPACE'
-     HINT: see step 2 for help on `onKeyDown`
+   - Add an `if(keysDown)` function inside forever loop and replace the text with 'SPACE'
+     HINT: see step 2 for help on `keysDown`
    - Add `tongue.y1 += 20` inside the `if` statement
    - Add `else` case directly after the `if`, do you know what the `else` statement does? Ask a teacher to help!
      HINT: paste the following directly after the closing curly brace from the if
