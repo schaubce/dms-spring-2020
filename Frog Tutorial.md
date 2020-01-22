@@ -1,12 +1,12 @@
 # Frog Tutorial
 
-1. Choose your background and add Frog to the game
+### 1. Choose your background and add Frog to the game
 
    - Search for flappy and add the `setBackdropURL` code to the right side
    - Search for frog and copy/paste the code to the right
    - Click back right next to where you typed in frog to get back to all the options
 
-2. Make the frog move
+### 2. Make the frog move
 
    - Click the "Control" section and find the `forever` block, add this to the right
    - Click the "Event" section and find the `onKeyDown` block, add this to the right inside the `forever` loop
@@ -16,7 +16,7 @@
    - Now work on the frog moving the other three directions, how can you get it to move each way?
      HINT: take a look at your code for LEFT and see what you need to change for UP, DOWN, and RIGHT
 
-3. Make the frogs tongue
+### 3. Make the frogs tongue
 
    - In the "Sprites and Backgrounds" section click line at the bottom, copy this code and add underneath all your code on the right
    - Replace lineSprite1 with `tongue`
@@ -43,7 +43,7 @@
 
    - Add `tongue.sendToBack()` under all the rest
 
-4. Make space bar control the tongue
+### 4. Make space bar control the tongue
 
    - Add another `forever` loop at the end
    - Add an `onKeyDown` function inside forever loop and replace the text with 'SPACE'
@@ -66,3 +66,5 @@
      tongue.y1 = frog.y;
    }
    ```
+
+### Now try adding a fly for the frog to try to eat with its tongue. How would you do this? Ask a teacher if you need help getting started!
