@@ -77,7 +77,7 @@
 4. Activities:
 * Conditions: https://hourofcode.com/gcconditions
 * Comparators/Logical Rules: https://hourofcode.com/gccomparators
-* Frog Tutorial
+* Frog Tutorial https://github.com/schaubce/dms-spring-2020/blob/master/Frog%20Tutorial.md#frog-tutorial
 
 5. Work on Site
 
