@@ -84,14 +84,16 @@
 6. Selfie
 
 ## Week 4
-1. Ice Breaker
-
-2. Review/Ground Rules/Photo Release forms
+1. Ice Breaker (https://curriculum.code.org/csf-19/coursec/14/)
 
 3. Concepts:
-- Variables/Defining Objects (Sprites)
-- Booleans/If Statements
-
-4. Game Actions/Events
+- Events/Actions
+- Game Actions/Events (if folks are interested)
 * Events: https://hourofcode.com/gcevents
 * Actions https://hourofcode.com/gcactions
+
+4. Review Actions/Events in Game
+
+5. Work on Site
+
+6. Selfie
