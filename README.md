@@ -86,14 +86,22 @@
 ## Week 4
 1. Ice Breaker (https://curriculum.code.org/csf-19/coursec/14/)
 
-3. Concepts:
+2. Concepts:
 - Events/Actions
 - Game Actions/Events (if folks are interested)
 * Events: https://hourofcode.com/gcevents
 * Actions https://hourofcode.com/gcactions
 
-4. Review Actions/Events in Game
+3. Review Actions/Events in Game
 
-5. Work on Site
+4. Work on Site
 
-6. Selfie
+5. Selfie
+
+## Week 5
+1. Ice Breaker https://curriculum.code.org/csf-18/coursec/4/
+2. Concepts:
+- Pseudocode
+- Scope?
+
+3. Work on Site
