@@ -101,7 +101,15 @@
 ## Week 5
 1. Ice Breaker https://curriculum.code.org/csf-18/coursec/4/
 2. Concepts:
+- Comments
 - Pseudocode
 - Scope?
 
 3. Work on Site
+
+## Week 6
+1. Survey - https://forms.gle/njTi7Rb9GPRnNcRM6
+2. Picture
+3. Finish Site
+4. Game: Code Combat - https://hourofcode.com/cocomgame
+5. Share sites/play each others game (last half hour)
